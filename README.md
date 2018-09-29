@@ -1,1 +1,2 @@
-# star-wars
+# startrek
+projeto educacional basilides de godoy
